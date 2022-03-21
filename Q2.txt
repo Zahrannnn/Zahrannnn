@@ -1,0 +1,22 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+
+
+	int n = 1;
+	cin >> n;
+	if (n <= 100&&n>=1)
+		cout << "ok";
+	else
+		cout << "out of range ";
+
+
+		
+
+
+
+
+
+
+}

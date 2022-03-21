@@ -1,0 +1,13 @@
+
+#include <iostream>
+using namespace std;
+int main()
+{
+    int a = 3, b = 2, c = -4,y=0;
+    y = a + --b + ++c * a % c;//4
+    y = 2 * ++b + 3 * (a-- - c);//27
+    y += a * ++b + c-- * a % c;//9
+   y *= 4 * b + 3 * (++a + c);//0
+    cout << "y = " << y;
+}
+
