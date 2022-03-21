@@ -4,7 +4,6 @@ int main()
 {
 	int m;
 	cin >>m;
-	if(m>=1&&m<=12)
 	switch (m)
 	{
 	case 1:cout << "JAN";
@@ -32,12 +31,12 @@ int main()
 	break;
 	case 12:cout << "Dec";
 		
-	default:	break;
+	default: cout << "error";	break;
 
 		
 	}
-	else
-	cout << "error";
+
+	
 
 
 
