@@ -23,7 +23,7 @@ React · Next.js · TypeScript · Node · Python
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZAHRAN88/ZAHRAN88/refs/heads/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZAHRAN88/ZAHRAN88/refs/heads/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ZAHRAN88/ZAHRAN88/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zahrannnn/Zahrannnn/refs/heads/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zahrannnn/Zahrannnn/refs/heads/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Zahrannnn/Zahrannnn/output/github-snake.svg" />
 </picture>
