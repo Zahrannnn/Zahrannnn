@@ -4,17 +4,27 @@
   <img alt="banner" src="https://raw.githubusercontent.com/Zahrannnn/Zahrannnn/refs/heads/main/banner-dark.svg" width="100%">
 </picture>
 
-Senior frontend engineer, shifting into agentic AI systems. Right now: system design, LLM pipelines, TypeScript at scale.
+Senior frontend engineer, shifting into agentic AI systems. Right now: system design, marketplace architecture, TypeScript across the stack.
 
 ---
 
-**Wasla-CRM** — Multi-tenant CRM with Next.js 15. RTL across four languages, role-based access, AI voice agent integration for calls. Real-world enterprise surface.
+**Nabdh** — Real-time healthcare marketplace for Egypt. NestJS, MongoDB geospatial engine, 18-state booking machine, outbox event pattern. Uber-for-nursing with SOS dispatch, scheduled visits, and Egyptian payment integrations.
 
-**AI Job Searcher** — Claude Code pipeline that scrapes job boards, scores listings by fit, and generates tailored LaTeX resumes and cover letters per role. Dashboard with one-click PDF generation.
+**CORELIA** — Multi-service platform. React 19, Three.js, GSAP, Redux Toolkit, Kafka, TimescaleDB, computer vision pipelines. Seven services orchestrated via Docker Compose.
+
+**Wasla-CRM** — Multi-tenant CRM. Next.js 15, RTL across four languages, role-based access, AI voice agent integration.
+
+**AI Job Searcher** — Claude Code pipeline. Scrapes boards, scores listings by fit, generates tailored LaTeX resumes per role. Dashboard with one-click PDF generation.
 
 ---
 
-React · Next.js · TypeScript · Node · Python
+| core | visual & ui | state & data |
+|------|-------------|--------------|
+| React · Next.js · TypeScript · Node | Three.js · GSAP · Framer Motion · Radix UI · Tailwind CSS · SCSS | Redux Toolkit · Zustand · TanStack Query · react-hook-form · Zod |
+
+| backend | infra |
+|---------|-------|
+| NestJS · Spring Boot · FastAPI · ASP.NET Core · MongoDB · PostgreSQL · MySQL | Docker · Kafka · Redis · Nginx · GitHub Actions · Turbopack |
 
 ---
 
