@@ -1,23 +1,27 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zahrannnn/Zahrannnn/refs/heads/main/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zahrannnn/Zahrannnn/refs/heads/main/banner-light.svg">
+  <img alt="banner" src="https://raw.githubusercontent.com/Zahrannnn/Zahrannnn/refs/heads/main/banner-dark.svg" width="100%">
+</picture>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/zahran5045) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100009296469490) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohamedosamazahran77) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-zahran-383859222/) 
+Senior frontend engineer, shifting into agentic AI systems. Right now: system design, LLM pipelines, TypeScript at scale.
 
-# 💻 Tech Stack:
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Zahrannnn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Zahrannnn&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zahrannnn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Zahrannnntheme=radical&no-frame=true&no-bg=true&margin-w=4)
+**Wasla-CRM** — Multi-tenant CRM with Next.js 15. RTL across four languages, role-based access, AI voice agent integration for calls. Real-world enterprise surface.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**AI Job Searcher** — Claude Code pipeline that scrapes job boards, scores listings by fit, and generates tailored LaTeX resumes and cover letters per role. Dashboard with one-click PDF generation.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
 
-###
+React · Next.js · TypeScript · Node · Python
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/mohamed-zahran-383859222/) · [Discord](https://discord.gg/zahran5045) · [GitHub](https://github.com/Zahrannnn)
+
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZAHRAN88/ZAHRAN88/refs/heads/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZAHRAN88/ZAHRAN88/refs/heads/output/github-snake.svg" />
