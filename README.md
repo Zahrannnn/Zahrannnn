@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg">
-  <img alt="Mohamed Zahran" src="./banner-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zahrannnn/Zahrannnn/f8fc442b615a4d219eef4b61d27b75785ea2f862/banner-dark.svg?v=pixel-joy">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zahrannnn/Zahrannnn/f8fc442b615a4d219eef4b61d27b75785ea2f862/banner-light.svg?v=pixel-joy">
+  <img alt="Mohamed Zahran" src="https://raw.githubusercontent.com/Zahrannnn/Zahrannnn/f8fc442b615a4d219eef4b61d27b75785ea2f862/banner-dark.svg?v=pixel-joy" width="100%">
 </picture>
 
 <div align="center">
