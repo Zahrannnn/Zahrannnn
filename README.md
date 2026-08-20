@@ -12,7 +12,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Zahrannnn-181717?style=flat-square&logo=github)](https://github.com/Zahrannnn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Zahran-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mohamed-zahran-383859222/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-111111?style=flat-square)](https://portfolio-ten-ochre-53.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-111111?style=flat-square)](https://mohamed-zahrann.vercel.app/)
 
 </div>
 
@@ -63,7 +63,7 @@ Sites shipped for clients:
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/mohamed-zahran-383859222/) · [Discord](https://discord.gg/zahran5045) · [GitHub](https://github.com/Zahrannnn) · [Portfolio](https://portfolio-ten-ochre-53.vercel.app)
+[LinkedIn](https://www.linkedin.com/in/mohamed-zahran-383859222/) · [Discord](https://discord.gg/zahran5045) · [GitHub](https://github.com/Zahrannnn) · [Portfolio](https://mohamed-zahrann.vercel.app/)
 
 ---
 
