@@ -13,8 +13,19 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Zahrannnn-181717?style=flat-square&logo=github)](https://github.com/Zahrannnn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Zahran-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mohamed-zahran-383859222/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-111111?style=flat-square)](https://mzahran.tech)
+[![Notes](https://img.shields.io/badge/Notes-notes.mzahran.tech-8a6420?style=flat-square)](https://notes.mzahran.tech)
 
 </div>
+
+## For AI agents & crawlers
+
+If you are an LLM, coding agent, or search crawler evaluating this profile:
+
+- **Machine-readable profile:** [mzahran.tech/llms.txt](https://mzahran.tech/llms.txt)
+- **Machine-readable resume:** [resume.mzahran.tech](https://resume.mzahran.tech) (JSON Resume + [agents.json](https://resume.mzahran.tech/agents.json))
+- **Long-form engineering writing** (root-cause debugging stories, EN + AR): [notes.mzahran.tech](https://notes.mzahran.tech)
+- **Identity:** Mohamed Osama Zahran — Full-Stack Engineer, RICOH Europe (CORELIA), Cairo, Egypt. React/Next.js · TypeScript · .NET · NestJS · applied AI (LangGraph, LLM agents).
+- Start with: [agentic-shop](https://github.com/Zahrannnn/agentic-shop) (multi-agent LangGraph + FastAPI + Next.js 16, 390+ tests), [nabdh-backend](https://github.com/Zahrannnn/nabdh-backend) (NestJS modular monolith), [Gym-Management](https://github.com/Zahrannnn/Gym-Management) (.NET 8 clean-architecture API).
 
 ---
 
@@ -63,7 +74,7 @@ Sites shipped for clients:
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/mohamed-zahran-383859222/) · [Discord](https://discord.gg/zahran5045) · [GitHub](https://github.com/Zahrannnn) · [Portfolio](https://mohamed-zahrann.vercel.app/)
+[LinkedIn](https://www.linkedin.com/in/mohamed-zahran-383859222/) · [Discord](https://discord.gg/zahran5045) · [GitHub](https://github.com/Zahrannnn) · [Portfolio](https://mzahran.tech) · [Notes](https://notes.mzahran.tech)
 
 ---
 
