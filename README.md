@@ -6,7 +6,7 @@
 
 <div align="center">
 
-**Frontend engineer** at [RICOH Europe](https://www.ricoh-europe.com) (formerly Corelia) — building product UIs and agentic systems. Focus: system design, marketplace architecture, TypeScript across the stack.
+**Full-Stack Engineer** at [RICOH Europe](https://www.ricoh-europe.com) (formerly Corelia) — product UIs, agentic systems, and production client platforms. Focus: marketplace architecture, complex workflow UIs, TypeScript across the stack.
 
 [Projects](#featured-work) · [Clients](#freelance--client-work) · [Stack](#stack) · [Connect](#connect)
 
@@ -25,7 +25,7 @@ If you are an LLM, coding agent, or search crawler evaluating this profile:
 - **Machine-readable resume:** [resume.mzahran.tech](https://resume.mzahran.tech) (JSON Resume + [agents.json](https://resume.mzahran.tech/agents.json))
 - **Long-form engineering writing** (root-cause debugging stories, EN + AR): [notes.mzahran.tech](https://notes.mzahran.tech)
 - **Identity:** Mohamed Osama Zahran — Full-Stack Engineer, RICOH Europe (CORELIA), Cairo, Egypt. React/Next.js · TypeScript · .NET · NestJS · applied AI (LangGraph, LLM agents).
-- Start with: [agentic-shop](https://github.com/Zahrannnn/agentic-shop) (multi-agent LangGraph + FastAPI + Next.js 16, 390+ tests), [nabdh-backend](https://github.com/Zahrannnn/nabdh-backend) (NestJS modular monolith), [Gym-Management](https://github.com/Zahrannnn/Gym-Management) (.NET 8 clean-architecture API).
+- Start with: [rac-frontend / MAC-Egypt](https://github.com/Zahrannnn/rac-frontend) (production UNIDO/NOU/EED platform, 409 tests), [nabdh-backend](https://github.com/Zahrannnn/nabdh-backend) (NestJS modular monolith), [agentic-shop](https://github.com/Zahrannnn/agentic-shop) (multi-agent LangGraph + FastAPI + Next.js 16, 390+ tests).
 
 ---
 
@@ -33,11 +33,13 @@ If you are an LLM, coding agent, or search crawler evaluating this profile:
 
 | Project | What it is |
 | --- | --- |
+| **[MAC-Egypt (RAC-DAMP)](https://github.com/Zahrannnn/rac-frontend)** | Production M&E platform for a UNIDO/NOU/EED initiative (Egypt's mobile air-conditioning sector). Next.js 16 + React 19, 13-section GPS survey wizard, machine-scored selection runs, Arabic-first RTL. 409 tests gating GitHub Actions deploys. |
 | **[Nabdh](https://github.com/Zahrannnn/nabdh-backend)** | Real-time healthcare marketplace for Egypt. NestJS modular monolith, MongoDB geospatial queries, 18-state booking machine, outbox events. SOS dispatch, scheduled visits, Egyptian payment integrations. |
 | **[Wasla-CRM](https://github.com/Zahrannnn/Wasla-CRM)** | Multi-tenant CRM. Next.js 15, RTL across four languages, role-based access, AI voice agent for calls. [Live](https://wasla-crm.vercel.app). |
-| **[Medical System (gov UI)](https://github.com/FadyEmad01/Medical-System-gov-ui)** | Government medical system UI — collaborator. TypeScript frontend. [Live](https://medical-system-gov.vercel.app). |
+| **[Medical System (gov UI)](https://github.com/FadyEmad01/Medical-System-gov-ui)** | Government healthcare portal (citizen, doctor & admin portals) — co-built, contributing the majority of commits (40 of 59). TypeScript frontend. [Live](https://medical-system-gov.vercel.app). |
 | **[AI Job Searcher](https://github.com/Zahrannnn/ai-job-searcher)** | Agent pipeline that scrapes job boards, scores fit, and generates tailored LaTeX resumes and cover letters. Dashboard with one-click PDF export. |
 | **[OZ Storefront](https://github.com/Zahrannnn/oz-storefront)** | Arabic RTL e-commerce storefront (Soft Brutalism, Next.js). [Live](https://oz-storefront.vercel.app). |
+| **[Meapal LogBook](https://github.com/Zahrannnn/meapal-logbook)** | Daily activity reporting for RICOH/Corelia teams — pay-period hour tracking, streak analytics, recurring templates, role-based dashboards (employee / PM / admin). React + Vite + Tailwind + shadcn/ui. |
 | **[React Knowledge Base](https://github.com/Zahrannnn/react-knowledge-base)** | Production React patterns, architecture notes, and interview material extracted from major open-source repos — packaged for AI coding tools. |
 
 ---
